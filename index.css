@@ -7,11 +7,7 @@
     src: url("image/aoyagireisyosimo_ttf_2_01/aoyagireisyosimo_ttf_2_01.ttf")format("truetype");
     font-display: swap;
 }
-@font-face {
-    font-family: "titlefont2";
-    src: url("image/KouzanSousho/KouzanBrushFontSousyo.ttf")format("truetype");
-    font-display: swap;
-}
+
 
 /* 全体のリセットとベーススタイル (Flexboxによるレスポンシブ化・スクロール不要なサイズ設定) */
 html, body {
